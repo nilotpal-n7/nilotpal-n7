@@ -35,8 +35,10 @@ I am a **CSE** student at **IIT Guwahati** and **Projects Head** of the **Coding
 * **Tech Stack:** C++, Rust, Assembly
 * **Context:** A deep dive into the RISC-V architecture. Highlights a foundational knowledge of low-level hardware-software interfaces and CPU-level optimizations.
 
+<!--
 ### 📊 GitHub Stats
 
 ![Nilotpal's GitHub Stats](https://github-readme-stats.shion.dev/api?username=nilotpal-n7&show_icons=true&theme=radical&hide_border=true)
+-->
 
 *"Oh, Death... Become my blade, once more"*
