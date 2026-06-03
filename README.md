@@ -40,5 +40,5 @@ I am a **CSE** student at **IIT Guwahati** and **Projects Head** of the **Coding
 
 ![Nilotpal's GitHub Stats](https://github-readme-stats.shion.dev/api?username=nilotpal-n7&show_icons=true&theme=radical&hide_border=true)
 -->
-
+---
 *"Oh, Death... Become my blade, once more"*
