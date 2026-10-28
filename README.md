@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilotpal-n7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilotpal-n7)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1683_(Expert)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nilotpal-n7)
+[![Instagram](https://img.shields.io/badge/Instagram&logo=cinstagram&logoColor=white)](https://instagram.com/nil7.xeno)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilotpalgupta0701@gmail.com)
 
 **Computer Science & Engineering** (Major) with a **Minor in Mathematics** at **IIT Guwahati** | **Projects Head**, Coding Club IITG.
@@ -88,15 +88,6 @@ I operate across the computing stack: from **binary reverse engineering, virtual
 *Unified campus management platform serving 8,000+ students and administrators at IIT Guwahati.*
 * Engineered a versioned microservices API gateway (`Express 5`) routing traffic to distinct services backed by PostgreSQL, MongoDB, and Redis.
 * Containerized multi-environment Docker deployment pipelines powering 7 production clients across Web and mobile (App Store / Google Play).
-
----
-
-## 📈 Competitive Programming & Academics
-
-* **Codeforces:** [Expert](https://codeforces.com/profile/nilotpal-n7) (Peak Rating: **1683**)
-* **LeetCode:** [nilotpal-n7](https://leetcode.com/u/nilotpal-n7/)
-* **Academics:** B.Tech Major in Computer Science & Engineering, Minor in Mathematics at **IIT Guwahati**
-* **Leadership:** Projects Head, **Coding Club IIT Guwahati**
 
 ---
 <p align="center">
