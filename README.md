@@ -99,12 +99,6 @@ I operate across the computing stack: from **binary reverse engineering, virtual
 * **Leadership:** Projects Head, **Coding Club IIT Guwahati**
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilotpal-n7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nilotpal's GitHub Stats" />
-</p>
-
----
 <p align="center">
   <i>"Oh, Death... Become my blade, once more"</i>
 </p>
